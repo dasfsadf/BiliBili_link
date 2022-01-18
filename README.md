@@ -1,6 +1,9 @@
 # BiliBili_link
+Step1：
+Download the given Link
 
-
+Step2:
 Please Change file name extension to .zip
 
-文件后缀改成.zip 然后自己看着办 XD
+Step3:
+Unzip and enjoy
